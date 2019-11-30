@@ -18,7 +18,7 @@ To run the Web app,
 
 To run the app on Android or ios natively, follow these instructions.
 
-[Click here]("https://capacitor.ionicframework.com/docs/getting-started/")
+[Click here](https://capacitor.ionicframework.com/docs/getting-started/)
 
 ## Screenshots
 
