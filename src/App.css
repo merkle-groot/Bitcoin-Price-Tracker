@@ -1,22 +1,33 @@
-.App {
-  text-align: center;
+/* ion-content{
+  $background: #3880ff;
+
+  --background:"#000000";
+} */
+
+
+ion-card{
+  --background:"#3b43be"
 }
 
-.App-logo {
-  height: 40vmin;
+.bitcoin__logo{
+  width:140px;
+  height: 140px;
+  /* display:block; */
+  /* margin:0 auto; */
+  color: "#000000";
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.header_text{
+  font-size: 20px;
+  color:"#2F4F4F";
 }
 
-.App-link {
-  color: #09d3ac;
+.refresh_button{
+  
+        text-align: center;
+        background-color:orange;
+        height: 50px;
+        width: 100px;
+        border-radius: 5px;
+        /* display: inline-block; */
 }
