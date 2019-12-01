@@ -1,6 +1,6 @@
 # Bitcoin Price Tracker
 
-A basic, single screen Web App made using Ionic-React.
+A basic, single screen Web App made using Ionic-React. Uses coin-desk api to get realtime bitcoin prices. You can click or press "Refresh" to get the latest prices.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ To run the Web app,
 
 ``` npm start ```
 
-To run the app on Android or ios natively, follow these instructions.
+To run the app on Android or ios natively, follow these instructions (using capacitor). 
 
 [Click here]("https://capacitor.ionicframework.com/docs/getting-started/")
 
